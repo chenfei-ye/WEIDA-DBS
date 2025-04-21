@@ -18,7 +18,7 @@ The codebase is currently being refactored for reproducibility and documentation
 - Visualization for cortical state transitions  
 
 ### Expected Release  
-⌛ **Full code release: May 2025**  
+⌛ **Full code release: April 27th, 2025**  
 We aim to publish:  
 1. Version-controlled scripts with dependency management  
 2. Jupyter Notebook/Python demo workflows  
@@ -28,7 +28,7 @@ We aim to publish:
 
 ### Citation  
 When referencing this work, please cite:  
-> *Chenfei Ye, Chen Ran, et al. Neuromodulation-induced Normalization of Cortical Metastable Dynamics in Parkinson’s Disease. (2025).*  
+> *C. Ye†, C. Ran†, et al. Neuromodulation-induced Normalization of Cortical Metastable Dynamics in Parkinson’s Disease. (2025).*  
 
 *For urgent access requests or collaboration inquiries, contact [yechenfei@hit.edu.cn](mailto:yechenfei@hit.edu.cn)*  
 
